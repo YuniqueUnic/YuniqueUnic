@@ -7,11 +7,13 @@
 Passionate software engineer with a deep understanding of **C#** and **Rust** programming languages. Always eager to learn and contribute to innovative projects.
 
 ### 🌐 Skill Icons
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cs,rust,dotnet,py,vscode,linux,docker,photoshop,premiere,typescript,javascript,figma,visualstudio" />
   </a>
 </p>
+
 ![Csharp](https://img.shields.io/badge/-Csharp-239120?style=for-the-badge&logo=Csharp)
 ![Dotnet](https://img.shields.io/badge/-.Net-512BD4?style=for-the-badge&logo=dotnet&logoSize=42&label=dotnet&labelColor=%236669E4)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust)
