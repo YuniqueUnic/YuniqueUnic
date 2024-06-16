@@ -53,7 +53,7 @@ Passionate software engineer with a deep understanding of **C#** and **Rust** pr
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuniqueUnic&show_icons=true&theme=dark)
 
 ## 📫 How to reach me ...
-- **Email**: [unicyunique@gmail.com](mailto:unicyunique@gmail.com)
+- **Email**: [yuniqueunic@gmail.com](mailto:yuniqueunic@gmail.com)
 - **Twitter**: [@YuniqueUnic](https://twitter.com/YuniqueUnic)
 - **Personal Website**: [yunique.top](https://www.yunique.top)
 
