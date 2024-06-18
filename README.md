@@ -56,7 +56,7 @@ Passionate software engineer with an understanding of **C#** and **Rust** progra
 
 ## 📫 How to reach me ...
 - **Email**: [yuniqueunic@gmail.com](mailto:yuniqueunic@gmail.com)
-- **Twitter**: [@YuniqueUnic](https://twitter.com/YuniqueUnic)
+- **Twitter**: [@UnicYunique](https://x.com/UnicYunique)
 - **Personal Website**: [yunique.top](https://www.yunique.top)
 
 ---
