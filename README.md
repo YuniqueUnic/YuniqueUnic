@@ -4,7 +4,7 @@
 
 😄 Pronouns: He/Him
 
-Passionate software engineer with an understanding of **C#** and **Rust** programming languages. Always eager to learn and contribute to innovative projects.
+Passionate software engineer with an understanding of **Rust**, **Python**, **C#** programming languages. Always eager to learn and contribute to innovative projects.
 
 [![Unic's GitHub | Stats](https://stats.quira.sh/Unic/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=Unic)
 
