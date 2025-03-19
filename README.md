@@ -78,9 +78,12 @@ A passionate software engineer with expertise in **Rust**, **TypeScript**, **Pyt
 <details open> 
    <summary>📊 GitHub Insights </summary>
 <br>
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuniqueUnic&layout=compact&theme=white" width="320" />
-  <img src="https://github-readme-stats.vercel.app/api?username=YuniqueUnic&show_icons=true&theme=white&include_all_commits=true" width="422" />
+
+<div align="center">
+  
+|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuniqueUnic&layout=compact&theme=white&hide_border=true" width="320" />|<img src="https://github-readme-stats.vercel.app/api?username=YuniqueUnic&show_icons=true&theme=white&include_all_commits=true&hide_border=true" width="422" />|
+|-----|------|
+
 </div>
 
 ---
