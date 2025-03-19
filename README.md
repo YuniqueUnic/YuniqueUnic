@@ -1,70 +1,95 @@
-# 🚀 Welcome to YuniqueUnic's GitHub
+## 👋 Hi there, I'm Unic (He/Him)
 
-## 👋 Hi, I'm Unic
+<a href="https://github.com/YuniqueUnic">
+  <img src="https://share.yunique.top/api/public/dl/nYheC5YL?inline=true" align="right" width="320" alt="Animated Sign" />
+</a>
 
-😄 Pronouns: He/Him
+A passionate software engineer with expertise in **Rust**, **TypeScript**, **Python**, and **C#**. Always eager to learn and contribute to innovative projects.
 
-Passionate software engineer with an understanding of **Rust**, **Python**, **C#** programming languages. Always eager to learn and contribute to innovative projects.
+[![Gmail Badge](https://img.shields.io/badge/-yuniqueunic@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yuniqueunic@gmail.com)
+[![Blog Badge](https://img.shields.io/badge/-Unic%20Yunique-0072b1?style=for-the-badge&logo=nicehash&logoColor=white)](https://www.yunique.top)
+[![X Badge](https://img.shields.io/badge/-@UnicYunique-00acee?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/UnicYunique)
 
-[![Unic's GitHub | Stats](https://stats.quira.sh/Unic/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=Unic)
-
-### 🌐 Skill Icons
+🌐 Technical Arsenal
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cs,rust,dotnet,py,vscode,linux,docker,photoshop,premiere,typescript,javascript,figma,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=git,cs,rust,dotnet,py,vscode,linux,docker,photoshop,premiere,typescript,javascript,figma,visualstudio" alt="Skill Icons" />
   </a>
 </p>
 
-![Csharp](https://img.shields.io/badge/-Csharp-239120?style=for-the-badge&logo=Csharp)
-![Dotnet](https://img.shields.io/badge/-.Net-512BD4?style=for-the-badge&logo=dotnet&logoSize=42&label=dotnet&labelColor=%236669E4)
-![Rust](https://img.shields.io/badge/-Rust-E43717?style=for-the-badge&logo=rust)
-![Solidity](https://img.shields.io/badge/-Solidity-03a8f3?style=for-the-badge&logo=solidity)
-![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white&logoSize=44&color=007ACC)
-![Python](https://img.shields.io/badge/-Python-14354c?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=for-the-badge&logoColor=white&logo=JavaScript)
-![Visual Studio Code](https://img.shields.io/badge/Editor_IDE-white?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&logoSize=44&label=vscode&labelColor=006DB0&color=007ACC)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Csharp-239120?style=for-the-badge&logo=Csharp" alt="Csharp" height="28" />
+  <img src="https://img.shields.io/badge/-.Net-512BD4?style=for-the-badge&logo=dotnet&logoSize=42&label=dotnet&labelColor=%236669E4" alt="Dotnet" height="28" />
+  <img src="https://img.shields.io/badge/-Rust-E43717?style=for-the-badge&logo=rust" alt="Rust" height="28" />
+  <img src="https://img.shields.io/badge/-Solidity-03a8f3?style=for-the-badge&logo=solidity" alt="Solidity" height="28" />
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white&logoSize=44&color=007ACC" alt="Typescript" height="28" />
+  <img src="https://img.shields.io/badge/-Python-14354c?style=for-the-badge&logo=python" alt="Python" height="28" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1C?style=for-the-badge&logoColor=white&logo=JavaScript" alt="JavaScript" height="28" />
+  <img src="https://img.shields.io/badge/Editor_IDE-white?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&logoSize=44&label=vscode&labelColor=006DB0&color=007ACC" alt="Visual Studio Code" height="28" />
+</p>
 
+#### 🌟 Web3 Innovator & Tech Enthusiast
 
-### 🌟 Technical Enthusiast and Web3 Innovator
+🚀 Core Focus Areas
 
-#### 🚀 Key Focus Areas
-- **Software Quality & Automation**: Streamlining processes and implementing reliable testing methodologies to enhance software excellence.
-- **Decentralized Applications**: Gaining proficiency in Web3 development, adept in smart contract creation, and testing, and familiar with various aspects of blockchain technology.
+- **Decentralized Applications (DApps)**: Deep expertise in Web3 development, specializing in smart contract creation and blockchain integration.
+- **High-Performance Cross-Platform Solutions**: Crafting efficient applications with Rust and TypeScript for seamless multi-platform experiences.
+- **Software Excellence**: Implementing robust testing frameworks and CI/CD pipelines to ensure code reliability.
 
-#### 📚 Skills & Expertise
-- **Smart Contract Development**: Experienced in Solidity, focusing on creating secure and optimized smart contracts.
-- **Ethereum Tool Proficiency**: Familiar with Hardhat and Foundry for comprehensive smart contract development and testing.
-- **Blockchain Technology**: Continuously expanding knowledge in decentralized technology, focusing on Ethereum and related ecosystems.
+📚 Technical Mastery
 
-### 🛠️ Development & Collaboration
-#### 🔧 Preferred Tools
-- **IDE & Version Control**: Proficient in Visual Studio Code and Git for efficient coding and source management.
-- **Testing Frameworks**: Skilled in MSTest, NUnit, and xUnit for robust testing of applications.
-- **Automation Tools**: Experienced with Selenium and Playwright for effective test automation.
+- **Smart Contract Development**: Proficient in Solidity and Solana ecosystems for secure, optimized blockchain solutions.
+- **Web3 Toolchain Expert**: Utilizing Hardhat, Foundry, and Anchor for end-to-end smart contract development.
+- **Blockchain Exploration**: Continuously expanding knowledge in Ethereum ecosystem while building on Solana.
 
-#### 💼 Community Engagement
-- **Open Source Contribution**: Regularly contributing to open-source Web3 projects, enhancing skills and contributing to the community.
-- **Knowledge Sharing**: Sharing insights in smart contract development and testing within the Web3 community.
-- **Community Involvement**: Engaging in tech communities to share knowledge and promote collective growth.
+<details>
+  <summary>🛠️ Development Ecosystem: </summary>
+<br>
+🔧 Toolbox Highlights
 
-## 📊 GitHub Stats
+- **IDE & Collaboration**: Expert-level proficiency with VS Code, Git, and GitHub for streamlined development workflows.
+- **Testing Frameworks**: Extensive experience with C#/MSTest, Python/pytest, Rust/tokio-test, and Node.js/Mocha.
+- **Automation**: Skilled in Selenium and Playwright for comprehensive test automation.
 
-🔥 Top Languages
+💼 Community Engagement
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuniqueUnic&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuniqueUnic&show_icons=true&theme=dark)
-
-## 📫 How to reach me ...
-- **Email**: [yuniqueunic@gmail.com](mailto:yuniqueunic@gmail.com)
-- **Twitter**: [@UnicYunique](https://x.com/UnicYunique)
-- **Personal Website**: [yunique.top](https://www.yunique.top)
+- **Open Source Contributions**: Active participant in Web2/Web3 OSS projects, enhancing both personal growth and community value.
+- **Knowledge Sharing**: Regular contributor to Web3 communities through technical articles and smart contract best practices.
+- **Tech Advocacy**: Engage in developer communities to foster innovation and collaborative learning.
 
 ---
+</details>
 
-Feel free to **star** this repo if you find it interesting or useful! 🌟
+#### 📊 GitHub Insights
 
-[![GitHub followers](https://img.shields.io/github/followers/YuniqueUnic.svg?label=Follow&style=social)](https://github.com/YuniqueUnic)
-[![GitHub stars](https://img.shields.io/github/stars/YuniqueUnic/YuniqueUnic?style=social)](https://github.com/YuniqueUnic/YuniqueUnic)
-![GitHub Views](https://komarev.com/ghpvc/?username=YuniqueUnic)
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuniqueUnic&layout=compact&theme=white" width="320" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YuniqueUnic&show_icons=true&theme=white&include_all_commits=true" width="422" />
+</div>
+
+<details>
+  <summary>📫 Let's Connect: </summary>
+<div align="center">
+  <a href="mailto:yuniqueunic@gmail.com">📧 Mail: yuniqueunic@gmail.com</a> &nbsp;|&nbsp;
+  <a href="https://www.yunique.top">🌐 Personal Blog: yunique.top</a> &nbsp;|&nbsp;
+  <a href="https://x.com/UnicYunique">🐦 X: @UnicYunique</a>
+</div>
+  
+---
+
+</details>
+
+If you find my repositories interesting or useful, please consider giving them a **star**! 🌟
+
+<div align="center">
+  <a href="https://github.com/YuniqueUnic">
+    <img src="https://img.shields.io/github/followers/YuniqueUnic.svg?label=Follow&style=social" alt="GitHub Followers">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/YuniqueUnic/YuniqueUnic">
+    <img src="https://img.shields.io/github/stars/YuniqueUnic/YuniqueUnic?style=social" alt="Repository Stars">
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=YuniqueUnic" alt="Profile Views">
+</div>
