@@ -10,8 +10,11 @@ A passionate software engineer with expertise in **Rust**, **TypeScript**, **Pyt
 [![Blog Badge](https://img.shields.io/badge/-Unic%20Yunique-0072b1?style=for-the-badge&logo=nicehash&logoColor=white)](https://www.yunique.top)
 [![X Badge](https://img.shields.io/badge/-@UnicYunique-00acee?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/UnicYunique)
 
-🌐 Technical Arsenal
+#### 🌐 Technical Arsenal
 
+<details open> 
+    <summary>🛠️ Tech Stacks</summary>
+<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cs,rust,dotnet,py,vscode,linux,docker,photoshop,premiere,typescript,javascript,figma,visualstudio" alt="Skill Icons" />
@@ -29,8 +32,15 @@ A passionate software engineer with expertise in **Rust**, **TypeScript**, **Pyt
   <img src="https://img.shields.io/badge/Editor_IDE-white?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&logoSize=44&label=vscode&labelColor=006DB0&color=007ACC" alt="Visual Studio Code" height="28" />
 </p>
 
+---
+
+</details> 
+
 #### 🌟 Web3 Innovator & Tech Enthusiast
 
+<details>
+  <summary>🖥️ Building: Robust Cross-platform DApps/Apps</summary>
+<br>
 🚀 Core Focus Areas
 
 - **Decentralized Applications (DApps)**: Deep expertise in Web3 development, specializing in smart contract creation and blockchain integration.
@@ -43,8 +53,10 @@ A passionate software engineer with expertise in **Rust**, **TypeScript**, **Pyt
 - **Web3 Toolchain Expert**: Utilizing Hardhat, Foundry, and Anchor for end-to-end smart contract development.
 - **Blockchain Exploration**: Continuously expanding knowledge in Ethereum ecosystem while building on Solana.
 
+</details>
+
 <details>
-  <summary>🛠️ Development Ecosystem: </summary>
+  <summary>🗺️ Development Ecosystem</summary>
 <br>
 🔧 Toolbox Highlights
 
@@ -61,15 +73,23 @@ A passionate software engineer with expertise in **Rust**, **TypeScript**, **Pyt
 ---
 </details>
 
-#### 📊 GitHub Insights
+#### 🚙 The Way
 
+<details open> 
+   <summary>📊 GitHub Insights </summary>
+<br>
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuniqueUnic&layout=compact&theme=white" width="320" />
   <img src="https://github-readme-stats.vercel.app/api?username=YuniqueUnic&show_icons=true&theme=white&include_all_commits=true" width="422" />
 </div>
 
+---
+
+</details>
+
 <details>
-  <summary>📫 Let's Connect: </summary>
+  <summary>📫 Let's Connect</summary>
+<br>
 <div align="center">
   <a href="mailto:yuniqueunic@gmail.com">📧 Mail: yuniqueunic@gmail.com</a> &nbsp;|&nbsp;
   <a href="https://www.yunique.top">🌐 Personal Blog: yunique.top</a> &nbsp;|&nbsp;
