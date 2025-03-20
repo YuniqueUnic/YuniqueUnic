@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Unic (He/Him)
 
 <a href="https://github.com/YuniqueUnic">
-  <img src="https://share.yunique.top/api/public/dl/nYheC5YL?inline=true" align="right" width="320" alt="Animated Sign" />
+  <img src="https://raw.githubusercontent.com/YuniqueUnic/YuniqueUnic/refs/heads/main/yuniquewritinglong.webp" align="right" width="320" alt="Animated Sign" />
 </a>
 
 A passionate software engineer with expertise in **Rust**, **TypeScript**, **Python**, and **C#**. Always eager to learn and contribute to innovative projects.
