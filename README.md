@@ -110,7 +110,7 @@ If you find my repositories interesting or useful, please consider giving them a
     <img src="https://img.shields.io/github/followers/YuniqueUnic.svg?label=Follow&style=social" alt="GitHub Followers">
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/YuniqueUnic/YuniqueUnic">
+  <a href="https://github.com/YuniqueUnic">
     <img src="https://img.shields.io/github/stars/YuniqueUnic/YuniqueUnic?style=social" alt="Repository Stars">
   </a>
   &nbsp;&nbsp;
