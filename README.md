@@ -1,7 +1,8 @@
 ## 👋 Hi there, I'm Unic (He/Him)
 
 <a href="https://github.com/YuniqueUnic">
-  <img src="https://raw.githubusercontent.com/YuniqueUnic/YuniqueUnic/refs/heads/main/yuniquewritinglong.webp" align="right" width="320" alt="Animated Sign" />
+  <!-- <img src="https://raw.githubusercontent.com/YuniqueUnic/YuniqueUnic/refs/heads/main/yuniquewritinglong.webp" align="right" width="320" alt="Animated Sign" /> -->
+  <img src="https://sign.yunique.top/api/sign?text=Yunique&font=sacramento&fontSize=120&speed=3&charSpacing=0&borderRadius=8&cardPadding=24&fill1=d9534f&fill2=ec4899&stroke=d9534f&stroke2=333333&strokeMode=single&strokeEnabled=1&bg=transparent&bgMode=solid&bg2=f0f0f0&texture=mizige&texColor=d24141&texSize=84&texThickness=1.5&texOpacity=0.4&useHanziData=true" align="right" width="320" alt="Animated Sign"/>
 </a>
 
 A passionate software engineer with expertise in **Rust**, **TypeScript**, **Python**, and **C#**. Always eager to learn and contribute to innovative projects.
